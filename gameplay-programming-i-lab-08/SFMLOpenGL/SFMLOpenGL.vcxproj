@@ -152,10 +152,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Game.h" />
-    <ClInclude Include="Matrix3.h" />
     <ClInclude Include="MyMatrix3D.h" />
     <ClInclude Include="MyVector3D.h" />
-    <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Game.cpp" />
