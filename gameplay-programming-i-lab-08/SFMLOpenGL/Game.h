@@ -30,5 +30,6 @@ private:
 	Time elapsed;
 
 	MyMatrix3 m_matrix;
+	MyVector3D m_cubePoints[8];
 	float rotationAngle = 0.0f;
 };
